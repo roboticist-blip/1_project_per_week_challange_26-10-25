@@ -9,7 +9,7 @@ It’s not just about remaking old games it’s about learning how systems think
 This marks the start of my consistency challenge 1 week, 1 project, every week.
 If I skip, I double next week 😤
 
-![Dino Game Screenshot](Images/Image_1.jpeg)
+![](Week_1/Images/Image_1)
 
 -   -   -   -   -   -   -   -   -   -   -   -
 
