@@ -14,5 +14,5 @@ If I skip, I double next week 😤
 
 - - - 
 
-![Dino Game Screenshot](images/Image_3.jpeg)
+![Dino Game Screenshot](Images/Image_3.jpeg)
 
