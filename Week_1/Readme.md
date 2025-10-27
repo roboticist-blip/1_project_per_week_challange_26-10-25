@@ -1,7 +1,10 @@
-Hello and welcome to my 1_project_per_week_challenge series in which I am creating, posting, documenting and modifing all about my projects.
+Week 1 of my #1ProjectPerWeek challenge!
 
-**Week 1 Project:**
-At these first week i created or say copied and modified a project that is the game we all used to play at back in our childhood.
+Kicking off this journey where I’ll be building, modifying, and documenting one project every week — no excuses.
+This week’s build: The classic Dino Game, but running on a tiny 128×64 OLED display.
 
-**The dino game.**
-In this I completely visualise our favourite dino game on a small 128*64 Oled display.
+I took the nostalgic Chrome Dino and reimagined it for embedded hardware — optimized frame rendering, added simple jump physics, and made it run smooth on limited resources.
+It’s not just about remaking old games — it’s about learning how systems think in tight memory and timing constraints.
+
+This marks the start of my consistency challenge — 1 week, 1 project, every week.
+If I skip, I double next week 😤
