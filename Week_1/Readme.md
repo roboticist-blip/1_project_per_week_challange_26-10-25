@@ -10,7 +10,7 @@ This marks the start of my consistency challenge 1 week, 1 project, every week.
 If I skip, I double next week 😤
 - - -
 
-![Dino Game Screenshot](Images/Image_2.jpeg)
+![Dino Game Screenshot](Images/Image_1.jpeg)
 
 - - - 
 
